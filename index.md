@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Ha-Myung Park
 permalink: /
 ---
 
-# Ha-Myung Park
 Postdoctoral Researcher at Data Mining Lab., Seoul National Univ.
 * Office: Room 314, Building 138, Seoul National Univ. 
 * Email: hamyung.park at snu.ac.kr
