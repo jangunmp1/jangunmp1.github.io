@@ -3,8 +3,8 @@
 .headerimagebox {
   height: 0px;
   width: 0px;
-  padding-left:80%;
-  padding-top:80%;
+  padding-left:160px;
+  padding-top:160px;
   margin: 0 auto;
   margin-top: 50px;
   border-radius: 5%;
@@ -14,8 +14,8 @@
   @media (min-width: $on-laptop+1) {
     margin-right: 0px;
     margin-bottom: 15px;
-    padding-left:160px;
-    padding-top:160px;
+    padding-left:80%;
+    padding-top:80%;
   }
 }
 
