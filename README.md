@@ -1,5 +1,3 @@
-[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
-
 # Ha-Myung Park
 Postdoctoral Researcher at Data Mining Lab., Seoul National Univ.
 * Office: Room 314, Building 138, Seoul National Univ. 
