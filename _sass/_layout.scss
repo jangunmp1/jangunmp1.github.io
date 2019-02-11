@@ -3,12 +3,20 @@
 .headerimagebox {
   height: 160px;
   width: 160px;
-  margin-left: 33px;
-  margin-bottom: 15px;
+  margin: 0 auto;
+  margin-top: 50px;
   border-radius: 5%;
   background-size: cover !important;
   background-position: center center !important;
+  
+  @media (min-width: $on-laptop+1) {
+    margin-left: 33px;
+    margin-bottom: 15px;
+  }
 }
+
+
+  
 
 /* layout */
 html,.container {
