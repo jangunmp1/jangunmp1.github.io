@@ -1,23 +1,20 @@
 ---
 layout: post
 title: Using Latex with Gedit
-category: Tips
+category: Preferences
 ---
 
-Using Latex with Gedit
-===============
-
-##1. gedit plugin install
+## 1. gedit plugin install
 ```shell
 $ sudo apt install gedit-plugins
 ```
 
 
-##2. turn on plugin
+## 2. turn on plugin
 
 `latex plugin`과 `synctex plugin` 을 켤 것
 
-##3. use `external tools` to compile tex file.
+## 3. use `external tools` to compile tex file.
 
 ```sh
 #!/bin/sh
