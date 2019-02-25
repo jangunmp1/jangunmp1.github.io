@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Latex with Gedit
-category: Preferences
+category: Tips
 ---
 
 Using Latex with Gedit
