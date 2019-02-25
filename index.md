@@ -4,8 +4,8 @@ title: Ha-Myung Park
 permalink: /
 ---
 
-Assistent Professor\
-College of Computer Science\
+Assistent Professor  
+College of Computer Science  
 Kookmin University
 
 * Office: Room 814, Dormitory D, Kookmin Univ. 
