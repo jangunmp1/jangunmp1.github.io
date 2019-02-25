@@ -4,14 +4,16 @@ title: Ha-Myung Park
 permalink: /
 ---
 
-Postdoctoral Researcher at Data Mining Lab., Seoul National Univ.
-* Office: Room 314, Building 138, Seoul National Univ. 
-* Email: hamyung.park at snu.ac.kr
-* WWW: http://hmpark.me
+Assistent Professor\
+College of Computer Science\
+Kookmin University
 
-**I will join Kookmin University as an assistent professor, starting from March 2019.**
+* Office: Room 814, Dormitory D, Kookmin Univ. 
+* Email: hmpark at kookmin.ac.kr
+* WWW: [http://hmpark.me](http://hmpark.me)
 
-Ha-Myung Park received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). He is a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr). in [Seoul National Univ](http://snu.ac.kr/).
+Ha-Myung Park is an assistent professor in College of Computer Science at Kookmin University.
+He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). He was a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr) in [Seoul National Univ](http://snu.ac.kr/).
 
 ## Research Interest
 * Large scale graph mining
