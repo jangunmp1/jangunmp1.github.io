@@ -63,8 +63,11 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
   * SCG develops and manages IT systems of the Colleage of ICC at SKKU.
 * Korea Internet Volunteers, Republic of South Africa (Aug. 2009)
 
-## Teaching Experience
+## Teaching
 
+* Latest technologies in Big Data, Instructor, Kookmin Univ. (Spring 2019)
+* Science and software thinking, Instructor, Kookmin Univ. (Spring 2019)
+* Data Structure, Instructor, Kookmin Univ. (Spring 2019)
 * Advanced Data Mining, Teaching Assistant, KAIST (Spring 2015, CS665)
 * Advanced Data Mining, Teaching Assistant, KAIST (Spring 2014, CS665)
 * Natural Language Process I, Teaching Assistant, KAIST (Fall 2013, CS574)
