@@ -19,12 +19,6 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 * Large scale graph mining
 * Scalable machine learning and data mining
 
-## Projects
-
-* Exobrain, Development of Core Technology for Human-like Self-taught Learning based on a Symbolic Approach (2014 - Present)
-* Large Scale Matrix Computation for Personalized Recommendation (2013 - 2014)
-* Enabling Technologies for Mobile Social Network Based Services in Web 3.0. funded by Korea Ministry Education, Science and Technology (2012 - 2013)
-
 ## Publications
 
 [Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
@@ -37,6 +31,22 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 * Min Joong Lee, Dong Wan Choi, Sangyon Kim, **Ha-Myung Park**, Sunghee Choi, Chin-Wan Chung, The Direction-Constrained k Nearest Neighbor Query: Dealing With Spatio-Directional Objects, Geoinformatica 20(3), 2016 [PDF](http://islab.kaist.ac.kr/dknn.pdf)
 * **Ha-Myung Park**, Francesco Silvestri, U Kang, Rasmus Pagh, MapReduce Triangle Enumeration With Guarentees, ACM International Conference on Information and Knowledge Management (CIKM), 2014 [PDF](http://datalab.snu.ac.kr/~ukang/papers/cttpCIKM2014.pdf) [Homepage](http://datalab.snu.ac.kr/cttp)
 * **Ha-Myung Park**, Chin-Wan Chung, An Efficient MapReduce Algorithm for Counting Triangles in a Very Large graph, ACM International Conference on Information and Knowledge Management (CIKM), 2013 [PDF](https://datalab.snu.ac.kr/~hmpark/papers/p539-park.pdf)
+
+## Teaching
+
+* Latest technologies in Big Data, Instructor, Kookmin Univ. (Spring 2019)
+* Science and software thinking, Instructor, Kookmin Univ. (Spring 2019)
+* Data Structure, Instructor, Kookmin Univ. (Spring 2019)
+* Advanced Data Mining, Teaching Assistant, KAIST (Spring 2015, CS665)
+* Advanced Data Mining, Teaching Assistant, KAIST (Spring 2014, CS665)
+* Natural Language Process I, Teaching Assistant, KAIST (Fall 2013, CS574)
+* User Experience Engineering, Teaching Assistant, KAIST-DTU e-Learning Course (Summer 2012)
+
+## Projects
+
+* Exobrain, Development of Core Technology for Human-like Self-taught Learning based on a Symbolic Approach (2014 - 2019)
+* Large Scale Matrix Computation for Personalized Recommendation (2013 - 2014)
+* Enabling Technologies for Mobile Social Network Based Services in Web 3.0. funded by Korea Ministry Education, Science and Technology (2012 - 2013)
 
 ## Patents
 
@@ -62,16 +72,6 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 * System Consultant Group in SKKU (2008-2011)
   * SCG develops and manages IT systems of the Colleage of ICC at SKKU.
 * Korea Internet Volunteers, Republic of South Africa (Aug. 2009)
-
-## Teaching
-
-* Latest technologies in Big Data, Instructor, Kookmin Univ. (Spring 2019)
-* Science and software thinking, Instructor, Kookmin Univ. (Spring 2019)
-* Data Structure, Instructor, Kookmin Univ. (Spring 2019)
-* Advanced Data Mining, Teaching Assistant, KAIST (Spring 2015, CS665)
-* Advanced Data Mining, Teaching Assistant, KAIST (Spring 2014, CS665)
-* Natural Language Process I, Teaching Assistant, KAIST (Fall 2013, CS574)
-* User Experience Engineering, Teaching Assistant, KAIST-DTU e-Learning Course (Summer 2012)
 
 ## Professional Services 
 
