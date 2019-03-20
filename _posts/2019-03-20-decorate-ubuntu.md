@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 우분투 꾸미기 
-category: Tips
+category: Preferences
 ---
 
 우분투 18.04 버전을 설치하자마자 보이는 보라색 화면은 영 맘에 들지 않음.
@@ -9,9 +9,9 @@ category: Tips
 
 요즘 대세인 material design으로 flat하게 꾸며보자.
 
-## 사전 작업
+## 1. 사전 작업
 
-###gnome-tweak-tool 설치
+### gnome-tweak-tool 설치
 
 ubuntu는 기존에는 unity를 기본 데스크탑 환경으로 사용하였는데, 18.04 버전부터 gnome을 사용한다.
 gnome-tweak-tool은 gnome 데스크탑 환경을 설정하는데 사용되는 도구이다.
@@ -29,12 +29,12 @@ sudo apt install gnome-tweak-tool
 1. User Themes (그놈 쉘의 대쉬, 패널 등을 꾸미는게 가능하도록 해줌)
 2. Dash To Panel (그놈 쉘의 상단 바와 대쉬를 없애고, 화면 아래에 패널을 만들어줌 (마치 윈도우 처럼) )
 
-## flat-plat-blue 테마 설치
+## 2. flat-plat-blue 테마 설치
 
 1. [flat-plat-blue github 저장소]{https://github.com/peterychuang/Flat-Plat-Blue} 를 참고하여 flat-plat-blue 테마 설치
 2. gnome-tweak-tool --> 모양새(appearance) --> 프로그램 부분과 쉘 부분 각각을 `Flat-Plat-Blue`로 수정
 
-## papirus 아이콘 팩 설치
+## 3. papirus 아이콘 팩 설치
 
 1. 아래 명령어로 papirus 아이콘 팩 설치
 ```bash
@@ -42,7 +42,7 @@ sudo apt install papirus-icon-theme
 ```
 2. gnome-tweak-tool --> 모양새(appearance) --> 아이콘 부분을 `Papirus`로 수정
 
-## Breeze 마우스 커서 테마 설치
+## 4. Breeze 마우스 커서 테마 설치
 
 1. 아래 명령어로 breeze 커서 테마 설치
 ```bash
@@ -51,7 +51,7 @@ sudo apt install breeze-cursor-theme
 2. gnome-tweak-tool --> 모양새(appearance) --> 커서 부분을 `Breeze_Snow`로 수정
 
 
-## 고해상도 모니터 설정
+## 5. 고해상도 모니터 설정
 
 화면 해상도가 높아서 글씨가 너무 작게 보일 때
 
