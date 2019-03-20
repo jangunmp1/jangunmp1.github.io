@@ -24,14 +24,14 @@ sudo apt install gnome-tweak-tool
 
 ### gnome-extension 설치
 
-[https://extensions.gnome.org/]{https://extensions.gnome.org/}에 접속하여 다음 두 gnome extension을 설치한다.
+{https://extensions.gnome.org/}[https://extensions.gnome.org/]에 접속하여 다음 두 gnome extension을 설치한다.
 
 1. User Themes (그놈 쉘의 대쉬, 패널 등을 꾸미는게 가능하도록 해줌)
 2. Dash To Panel (그놈 쉘의 상단 바와 대쉬를 없애고, 화면 아래에 패널을 만들어줌 (마치 윈도우 처럼) )
 
 ## 2. flat-plat-blue 테마 설치
 
-1. [flat-plat-blue github 저장소]{https://github.com/peterychuang/Flat-Plat-Blue} 를 참고하여 flat-plat-blue 테마 설치
+1. {flat-plat-blue github 저장소}[https://github.com/peterychuang/Flat-Plat-Blue] 를 참고하여 flat-plat-blue 테마 설치
 2. gnome-tweak-tool --> 모양새(appearance) --> 프로그램 부분과 쉘 부분 각각을 `Flat-Plat-Blue`로 수정
 
 ## 3. papirus 아이콘 팩 설치
