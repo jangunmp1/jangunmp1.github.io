@@ -12,6 +12,8 @@ Kookmin University
 * Email: hmpark at kookmin.ac.kr
 * WWW: [http://hmpark.me](http://hmpark.me)
 
+***I am looking for motivated Ph.D. student, MS students, and undergraduate students who are interested in data mining, big data processing, graph algorithms, and scalable machine learning. Send me an email if interested.***
+
 Ha-Myung Park is an assistent professor in College of Computer Science at Kookmin University.
 He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). He was a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr) in [Seoul National Univ](http://snu.ac.kr/).
 
