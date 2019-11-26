@@ -27,7 +27,7 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 
 [Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
 
-* Jinhong Jung, **Ha-Myung Park**, and U Kang, BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks, 23rd International Conference on Extending Database Technology (EDBT), 2020 (to appear)
+* Jinhong Jung, **Ha-Myung Park**, and U Kang, BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks, International Conference on Extending Database Technology (EDBT), 2020 (to appear)
 * **Ha-Myung Park**, Francesco Silvestri, Rasmus Pagh, Chin-wan Chung, Sung-Hyon Myaeng, and U Kang, Enumerating Trillion Subgraphs On Distributed Systems, ACM Transactions on Knowledge Discovery from Data (TKDD), 2018 [PDF](https://datalab.snu.ac.kr/~ukang/papers/pseTKDD18.pdf) [Homepage](https://datalab.snu.ac.kr/pegasusn/)
 * **Ha-Myung Park**, Chiwan Park, and U Kang, PegasusN: A Scalable and Versatile Graph Mining System, AAAI Conference on Artificial Intelligence (AAAI), 2018 (demo paper) [PDF](https://datalab.snu.ac.kr/~ukang/papers/pegasusnAAAI18.pdf) [Homepage](https://datalab.snu.ac.kr/pegasusn/)
 * Kyung-Min Kim, Jinhong Jung, Jihee Ryu, **Ha-Myung Park**, Joseph P.Joohee, Seokwoo Jeong, U Kang, and Sung-Hyon Myaeng, A New Question Answering Approach with Conceptual Graphs, Conférence en Recherche d’Information et Applications (CORIA), 2017 [PDF](http://datalab.snu.ac.kr/~ukang/papers/qaCORIA17.pdf)
