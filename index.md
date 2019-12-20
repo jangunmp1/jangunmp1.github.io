@@ -39,6 +39,8 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 
 ## Teaching
 
+* Data Mining, Instructor, Kookmin Univ. (Fall 2019)
+* Discrete Mathematics, Instructor, Kookmin Univ. (Fall 2019)
 * Latest technologies in Big Data, Instructor, Kookmin Univ. (Spring 2019)
 * Science and software thinking, Instructor, Kookmin Univ. (Spring 2019)
 * Data Structure, Instructor, Kookmin Univ. (Spring 2019)
@@ -49,6 +51,7 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 
 ## Projects
 
+* Efficient Triangle Enumeration on Heterogeneous Clusters (2019 - Now)
 * Exobrain, Development of Core Technology for Human-like Self-taught Learning based on a Symbolic Approach (2014 - 2019)
 * Large Scale Matrix Computation for Personalized Recommendation (2013 - 2014)
 * Enabling Technologies for Mobile Social Network Based Services in Web 3.0. funded by Korea Ministry Education, Science and Technology (2012 - 2013)
