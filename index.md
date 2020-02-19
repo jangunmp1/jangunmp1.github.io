@@ -27,6 +27,8 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 
 [Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
 
+* **Ha-Myung Park**, Namyong Park, Sung-Hyon Myaeng, and U Kang, PACC: Large Scale Connected Component Computation on Hadoop and Spark, PLOS ONE, (to appear)
+* Chiwan Park, **Ha-Myung Park**. and U Kang, FlexGraph: flexible partitioning and storage for scalable graph mining, PLOS ONE [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0227032&type=printable), [Github](https://github.com/snudatalab/FlexGraph/)
 * Jinhong Jung, **Ha-Myung Park**, and U Kang, BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks, International Conference on Extending Database Technology (EDBT), 2020 (to appear)
 * **Ha-Myung Park**, Francesco Silvestri, Rasmus Pagh, Chin-wan Chung, Sung-Hyon Myaeng, and U Kang, Enumerating Trillion Subgraphs On Distributed Systems, ACM Transactions on Knowledge Discovery from Data (TKDD), 2018 [PDF](https://datalab.snu.ac.kr/~ukang/papers/pseTKDD18.pdf) [Homepage](https://datalab.snu.ac.kr/pegasusn/)
 * **Ha-Myung Park**, Chiwan Park, and U Kang, PegasusN: A Scalable and Versatile Graph Mining System, AAAI Conference on Artificial Intelligence (AAAI), 2018 (demo paper) [PDF](https://datalab.snu.ac.kr/~ukang/papers/pegasusnAAAI18.pdf) [Homepage](https://datalab.snu.ac.kr/pegasusn/)
