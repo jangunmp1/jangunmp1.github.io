@@ -60,8 +60,9 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 
 ## Patents
 
-* Dong Min Seo, Seok Jong Yu, Min Ho Lee, U Kang, Ha-Myung Park, Method and Apparatus for Matching Graph (issued on June 2017)
-* U Kang, Ha-Myung Park, Francesco Silvestri, Rasmus Pagh, MapReduce Method for Traingle Enumeration and Apparatus Thereof (issued on Oct 2016)
+* U Kang, Chiwan Park, **Ha-Myung Park**, Minji Yoon, Method and Apparatus for Scalable Graph Mining Using Graph Pre-partitioning (issued on June 2019)
+* Dong Min Seo, Seok Jong Yu, Min Ho Lee, U Kang, **Ha-Myung Park**, Method and Apparatus for Matching Graph (issued on June 2017)
+* U Kang, **Ha-Myung Park**, Francesco Silvestri, Rasmus Pagh, MapReduce Method for Traingle Enumeration and Apparatus Thereof (issued on Oct 2016)
 
 ## Honours and Awards
 
