@@ -26,7 +26,7 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 ## Publications
 
 [Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
-
+* Jinhong Jung, Woojeong Jin, **Ha-myung Park**, and U Kang, Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart, World Wide Web Journal (WWWJ), 2020 (to appear) 
 * **Ha-Myung Park**, Namyong Park, Sung-Hyon Myaeng, and U Kang, PACC: Large Scale Connected Component Computation on Hadoop and Spark, PLOS ONE, 2020 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229936&type=printable), [Github](https://github.com/kmudmlab/PACC)
 * Chiwan Park, **Ha-Myung Park**. and U Kang, FlexGraph: flexible partitioning and storage for scalable graph mining, PLOS ONE, 2020 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0227032&type=printable), [Github](https://github.com/snudatalab/FlexGraph/)
 * Jinhong Jung, **Ha-Myung Park**, and U Kang, BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks, International Conference on Extending Database Technology (EDBT), 2020 (to appear)
