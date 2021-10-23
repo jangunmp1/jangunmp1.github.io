@@ -8,7 +8,7 @@ Assistent Professor
 College of Computer Science  
 Kookmin University
 
-* Office: Room 814, Dormitory D, Kookmin Univ. 
+* Office: Room 403, Future Hall (S2), Kookmin Univ. 
 * Email: hmpark at kookmin.ac.kr
 * WWW: [http://hmpark.me](http://hmpark.me)
 
