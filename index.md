@@ -4,28 +4,41 @@ title: Ha-Myung Park
 permalink: /
 ---
 
-Assistent Professor  
-College of Computer Science  
-Kookmin University
+Associate Professor
+[Data Mining Lab.](https://dm.kookmin.ac.kr)
+[Department of Computer Science](https://cs.kookmin.ac.kr)
+[Kookmin University](https://kookmin.ac.kr)
 
 * Office: Room 403, Future Hall (S2), Kookmin Univ. 
 * Email: hmpark at kookmin.ac.kr
-* WWW: [http://hmpark.me](http://hmpark.me)
+* WWW: [https://hmpark.me](https://hmpark.me)
 
 <!--
 ***I am looking for students of all levels interested in data mining, big data processing, graph algorithms, and scalable machine learning. Send me an email if interested.***
 -->
 
-Ha-Myung Park is an assistent professor in College of Computer Science at Kookmin University.
-He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). He was a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr) in [Seoul National Univ](http://snu.ac.kr/).
+I'm an Associate Professor in Department of Computer Science at Kookmin University, South Korea.
+I received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). My research interests include efficient data mining, AI model compression, and vector databases.
+<!--I was a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr) in [Seoul National Univ](http://snu.ac.kr/).-->
+
+I lead the [Data Mining Lab.](https://cs.kookmin.ac.kr) in Department of Computer Science at Kookmin University.
 
 ## Research Interest
-* Large scale graph mining
-* Scalable machine learning and data mining
+- Efficient data mining
+- AI model compression
+- Vector database 
 
 ## Publications
 
-[Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
+[Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://
+dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
+* Minyoung Choe, Geon Lee, Changhun Han, Suji Kim, Woong Hu, Hyebeen Hwang, Geunseok Park, Byeongyeon Kim, Hyesook Lee, **Ha-Myung Park**, and Kijung Shin, SkySearch: Satellite Video Search at Scale, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025 [PDF](https://dl.acm.org/doi/pdf/10.1145/3711896.3737263) [Github](https://dl.acm.org/doi/pdf/10.1145/3711896.3737263) [Slides](http://dmlab.kaist.ac.kr/~kijungs/skysearchKDD2025.pdf) [Poster](http://dmlab.kaist.ac.kr/~kijungs/posters/skysearchKDD2025.pdf)
+* Chaeeun Kim, Changhun Han, and **Ha-Myung Park**, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, IEEE International Conference on Data Engineering (ICDE), 2024 [PDF](http://dmlab.kaist.ac.kr/~kijungs/posters/skysearchKDD2025.pdf)
+* Changhun Han, Suji Kim, and **Ha-Myung Park**, Efficient Proximity Search in Time-evolving High-dimensional Data using Multi-level Block Indexing, International Conference on Extending Database Technology (EDBT), 2024 [PDF](https://kmudmlab.github.io/assets/papers/edbt2024_noye.pdf)
+* HyunSeok Park and **Ha-Myung Park**, Enhancing Heterophilic Graph Neural Network Performance through Label Propagation in K-Nearest Neighbor Graphs, IEEE International Conference on Big Data and Smart Computing (BigComp), 2024 [PDF](https://kmudmlab.github.io/assets/papers/bigcomp24_hspark.pdf)
+* Ismail Abdulhakin and **Ha-Myung Park**, Latent Representation Generation for Efficient Content-Based Image Retrieval in Weather Satellite Images Using Self-Supervised Segmentation, IEEE International Conference on Big Data and Smart Computing (BigComp), 2024 [PDF](IEEE International Conference on Big Data and Smart Computing (BigComp) 2024)
+* Sanghong Kim and **Ha-Myung Park**, Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023 [PDF](ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023) [Github](ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023)
+* Chaeeun Kim, Changhun Han, and **Ha-Myung Park**, UniCon: A Unified Star-Operation to Efficiently Find Connected Components on a Cluster of Commodity Hardware, PLOS ONE, 2022 [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277527) [Github](https://github.com/UniCon2021/UniCon)
 * Jinhong Jung, Woojeong Jin, **Ha-myung Park**, and U Kang, Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart, World Wide Web Journal (WWWJ), 2020 [PDF](https://datalab.snu.ac.kr/~ukang/papers/lrwrWWWJ20.pdf)
 * **Ha-Myung Park**, Namyong Park, Sung-Hyon Myaeng, and U Kang, PACC: Large Scale Connected Component Computation on Hadoop and Spark, PLOS ONE, 2020 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0229936&type=printable), [Github](https://github.com/kmudmlab/PACC)
 * Chiwan Park, **Ha-Myung Park**. and U Kang, FlexGraph: flexible partitioning and storage for scalable graph mining, PLOS ONE, 2020 [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0227032&type=printable), [Github](https://github.com/snudatalab/FlexGraph/)
@@ -39,7 +52,8 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 * **Ha-Myung Park**, Francesco Silvestri, U Kang, Rasmus Pagh, MapReduce Triangle Enumeration With Guarentees, ACM International Conference on Information and Knowledge Management (CIKM), 2014 [PDF](http://datalab.snu.ac.kr/~ukang/papers/cttpCIKM2014.pdf) [Homepage](http://datalab.snu.ac.kr/cttp)
 * **Ha-Myung Park**, Chin-Wan Chung, An Efficient MapReduce Algorithm for Counting Triangles in a Very Large graph, ACM International Conference on Information and Knowledge Management (CIKM), 2013 [PDF](https://datalab.snu.ac.kr/~hmpark/papers/p539-park.pdf)
 
-## Teaching
+
+## Teaching 
 
 * Data Science, Instructor, Kookmin Univ. (Fall 2020)
 * BigData Basic and Applications, Instructor, Kookmin Univ. (Summer 2020)
@@ -57,9 +71,9 @@ He received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (ad
 * Natural Language Process I, Teaching Assistant, KAIST (Fall 2013, CS574)
 * User Experience Engineering, Teaching Assistant, KAIST-DTU e-Learning Course (Summer 2012)
 
-## Projects
+## Projects 
 
-* Distributed K-Nearest-Neighbor Graph Construction and Search for Scalable High-dimensional Data Analyses (2020 - Now)
+* Distributed K-Nearest-Neighbor Graph Construction and Search for Scalable High-dimensional Data Analyses (2020 - 2022)
 * Efficient Triangle Enumeration on Heterogeneous Clusters (2019 - 2020)
 * Exobrain, Development of Core Technology for Human-like Self-taught Learning based on a Symbolic Approach (2014 - 2019)
 * Large Scale Matrix Computation for Personalized Recommendation (2013 - 2014)
