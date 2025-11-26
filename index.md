@@ -30,8 +30,7 @@ I lead the [Data Mining Lab.](https://cs.kookmin.ac.kr) in Department of Compute
 
 ## Publications
 
-[Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://
-dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
+[Google scholar](https://scholar.google.co.kr/citations?user=PqGNewQAAAAJ&hl=ko&oi=sra), [DBLP](http://dblp.uni-trier.de/pers/hd/p/Park:Ha=Myung)
 * Minyoung Choe, Geon Lee, Changhun Han, Suji Kim, Woong Hu, Hyebeen Hwang, Geunseok Park, Byeongyeon Kim, Hyesook Lee, **Ha-Myung Park**, and Kijung Shin, SkySearch: Satellite Video Search at Scale, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025 [PDF](https://dl.acm.org/doi/pdf/10.1145/3711896.3737263) [Github](https://dl.acm.org/doi/pdf/10.1145/3711896.3737263) [Slides](http://dmlab.kaist.ac.kr/~kijungs/skysearchKDD2025.pdf) [Poster](http://dmlab.kaist.ac.kr/~kijungs/posters/skysearchKDD2025.pdf)
 * Chaeeun Kim, Changhun Han, and **Ha-Myung Park**, BTS: Load-Balanced Distributed Union-Find for Finding Connected Components with Balanced Tree Structures, IEEE International Conference on Data Engineering (ICDE), 2024 [PDF](http://dmlab.kaist.ac.kr/~kijungs/posters/skysearchKDD2025.pdf)
 * Changhun Han, Suji Kim, and **Ha-Myung Park**, Efficient Proximity Search in Time-evolving High-dimensional Data using Multi-level Block Indexing, International Conference on Extending Database Technology (EDBT), 2024 [PDF](https://kmudmlab.github.io/assets/papers/edbt2024_noye.pdf)
