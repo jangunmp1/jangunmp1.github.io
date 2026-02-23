@@ -21,7 +21,7 @@ I'm an Associate Professor in Department of Computer Science at Kookmin Universi
 I received Ph.D. in School of Computing at [KAIST](http://www.kaist.ac.kr/) (advisors: [U Kang](http://datalab.snu.ac.kr/~ukang) and [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/professor/)), M.S. in Division of Web Science and Technology at [KAIST](http://www.kaist.ac.kr/) (advisor: [Chin-Wan Chung](http://islab.kaist.ac.kr/chungcw/)), and B.S. in Computer Science and Engineering at [SungKyunKwan Univ. (SKKU)](http://www.skku.edu/). My research interests include efficient data mining, AI model compression, and vector databases.
 <!--I was a postdoctoral researcher at [Data Mining Lab](https://datalab.snu.ac.kr) in [Seoul National Univ](http://snu.ac.kr/).-->
 
-I lead the [Data Mining Lab.](https://cs.kookmin.ac.kr) in Department of Computer Science at Kookmin University.
+I lead the [Data Mining Lab.](https://dm.kookmin.ac.kr) in Department of Computer Science at Kookmin University.
 
 ## Research Interest
 - Efficient data mining
