@@ -1,6 +1,6 @@
 <header class="site-header">
 
-  <div class="headerimagebox" style="background: url({{site.baseurl}}/assets/img/hmpark.jpg)"></div>
+  <img class="profile-photo" src="{{ "/assets/img/hmpark-profile.png" | relative_url }}" alt="Ha-Myung Park" width="160" height="212">
   
   <h2 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h2>
 
@@ -20,7 +20,12 @@
       <nav>
         <ul class="page-link">
           <li><a href="{{ "/" | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ "/archive" | prepend: site.baseurl }}">Posts</a></li>
+          <li><a href="{{ '/' | relative_url }}#publications">Publications</a></li>
+          <li><a href="{{ '/' | relative_url }}#patents">Patents</a></li>
+          <li><a href="{{ '/' | relative_url }}#teaching-and-educational-leadership">Teaching</a></li>
+          <li><a href="{{ '/' | relative_url }}#research-projects">Projects</a></li>
+          <li><a href="{{ '/' | relative_url }}#professional-service">Service</a></li>
+          <li><a href="{{ '/archive' | relative_url }}">Posts</a></li>
         </ul>
       </nav>
     </div>

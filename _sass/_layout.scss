@@ -511,3 +511,38 @@ there.
    opacity: 0;
  }
 }
+
+/* Academic profile: keep long records and course tables readable on small screens. */
+.profile-photo {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 5%;
+  margin: 0 0 20px auto;
+  @include media-query($on-laptop) {
+    margin: 0 auto 20px;
+  }
+}
+.article-content {
+  -webkit-hyphens: manual;
+  hyphens: manual;
+  h2 { margin-top: 3.2rem; }
+  h3 { margin-top: 2.4rem; letter-spacing: 0; }
+  li { margin-bottom: 1.2rem; }
+  table { width: 100%; table-layout: fixed; }
+  th:first-child, td:first-child { width: 65%; }
+  th, td { overflow-wrap: break-word; vertical-align: top; }
+}
+.venue-note, .publication-notes, .last-updated {
+  color: #555;
+  font-size: 1.3rem;
+}
+.past-records {
+  margin: 2rem 0;
+  padding: 1.2rem 0;
+  border-top: 1px solid #e1e1e1;
+  border-bottom: 1px solid #e1e1e1;
+  summary { cursor: pointer; font-weight: 600; }
+  &[open] summary { margin-bottom: 1.6rem; }
+}

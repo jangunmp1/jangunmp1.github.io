@@ -8,12 +8,11 @@
 # Site settings
 title: Ha-Myung Park
 email: hmpark@kookmin.ac.kr
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Ha-Myung Park, Associate Professor at Kookmin University's School of Artificial Intelligence.
+  Research in efficient data mining, scalable graph algorithms, similarity search, and AI model compression.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jangunmp1.github.io" # the base hostname & protocol for your site
+url: "https://hmpark.me" # the base hostname & protocol for your site
 #twitter_username: Taffyer 
 github_username:  jangunmp1
 
@@ -29,3 +28,9 @@ disqus_shortname:
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
+
+# Keep theme examples and source-only documentation out of the published site.
+exclude:
+  - ttt.md
+  - index.backup.html
+  - README.md

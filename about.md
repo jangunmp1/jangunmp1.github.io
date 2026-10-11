@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+I am Ha-Myung Park, an Associate Professor in the School of Artificial Intelligence at Kookmin University, where I lead the [Data Mining Lab.](https://dm.kookmin.ac.kr).
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+My research focuses on efficient data mining and machine learning, scalable graph algorithms, high-dimensional similarity search, and AI model compression.
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+[View my profile, publications, teaching, and professional service]({{ '/' | relative_url }}).
+
+Contact: [hmpark@kookmin.ac.kr](mailto:hmpark@kookmin.ac.kr).
