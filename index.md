@@ -309,7 +309,7 @@ Kookmin University, 2019–2026 (through Fall 2026).
 ### Ongoing Projects
 
 - **Multimodal Integrated Embeddings and Self-Verifying Real-Time Agentic AI for High-Reliability Corporate Disclosure Data Analysis.**<sup>*</sup><br>
-  Institutional Principal Investigator, Kookmin University. Lead institution: Synapsoft; participating institution: Kookmin University. Funded by MSIT / IITP. Current agreement: Apr–Dec 2026, the first year of a 2 + 2-year project.
+  Institutional Principal Investigator, Kookmin University. Lead institution: Synapsoft. Funded by MSIT / IITP. Current agreement: Apr–Dec 2026, the first year of a 2 + 2-year project.
 
 ### Completed Projects
 
