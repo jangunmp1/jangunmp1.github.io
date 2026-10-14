@@ -314,9 +314,9 @@ Kookmin University, 2019–2026 (through Fall 2026).
 ### Completed Projects
 
 - **Intelligent Automated Insurance Fraud Detection: Generative AI Scenario Design and Integrated Analytics for Proactive Fraud Detection.**<sup>*</sup><br>
-  Sep 2025–Aug 2026. Institutional Principal Investigator, Kookmin University. Funded by Seoul Metropolitan Government / Seoul Business Agency.
+  Sep 2025–Aug 2026. Institutional Principal Investigator, Kookmin University. Lead institution: NoriSpace. Funded by Seoul Metropolitan Government / Seoul Business Agency.
 - **Development of AI-based assistant technology for weather forecasting.**<br>
-  Apr 2021–Nov 2024. Institutional Principal Investigator, Kookmin University. Funded by the Korea Meteorological Administration (KMA), through KAIST.
+  Apr 2021–Nov 2024. Institutional Principal Investigator, Kookmin University. Lead institution: Satrec Initiative. Funded by the Korea Meteorological Administration (KMA), through KAIST.
 - **Distributed k-Nearest-Neighbor Graph Construction and Search for Scalable High-Dimensional Data Analysis.**<br>
   Jun 2020–Feb 2022. Principal Investigator (individual research project). Funded by MSIT / National Research Foundation of Korea (NRF).
 - **Efficient Graph Triangle Enumeration on Heterogeneous Clusters.**<br>
